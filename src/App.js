@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import HomePage from './pages';
-import DashboardLayout from './dashboard';
 import TasksPage from './pages/admin/tasks';
 import ReportsPage from './pages/admin/reports';
+import DashboardLayout from './dashboard/layout';
 import ProjectsPage from './pages/admin/projects';
 import SettingsPage from './pages/admin/settings';
 import CalendarPage from './pages/admin/calendar';

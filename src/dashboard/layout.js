@@ -1,3 +1,4 @@
+import Main from './main';
 import Overlay from './provider/overlay';
 import TopNavigation from './topnavigation';
 import SideNavigation from './sidenavigation';
@@ -23,7 +24,7 @@ export default function DashboardLayout({ children }) {
           ${open ? style.open : style.close}`}
         >
           <TopNavigation />
-          <main className={style.main}>{children}</main>
+          <Main className={style.main}>{children}</Main>
         </div>
       </div>
     </div>
