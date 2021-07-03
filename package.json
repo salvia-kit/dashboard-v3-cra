@@ -18,7 +18,6 @@
     "tailwindcss",
     "layout"
   ],
-  "homepage": "https://github.com/salvia-kit/dashboard-v3-cra#readme",
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@testing-library/jest-dom": "^5.11.4",
