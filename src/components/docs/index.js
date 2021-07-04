@@ -305,7 +305,7 @@ export default function Docs() {
         </div>
       </section>
 
-      <section className="px-3 md:px-8 py-8 bg-white shadow">
+      <section className="mb-16 px-3 md:px-8 py-8 bg-white shadow">
         <h2 className="text-2xl font-medium">Customization</h2>
         <p className="mt-5">
           You can customize everything according to your preferences if it
@@ -337,6 +337,24 @@ export default function Docs() {
             to the right
           </li>
         </ul>
+      </section>
+
+      <section className="px-3 md:px-8 py-8 shadow bg-white">
+        <h2 className="text-2xl font-medium">Components</h2>
+        <p className="mt-5">
+          If you'll need some UI components for Tailwind CSS such as modal,
+          accordion, dropdown, tab or other components, you can check out
+          <a
+            target="_blank"
+            rel="noreferrer noopener"
+            href="https://kimia-ui.vercel.app"
+            className="text-blue-500 px-1 font-medium"
+          >
+            Kimia-UI
+          </a>
+          , a collection of fully customizable UI components, without any
+          installation, just copy and paste the component you want to use.
+        </p>
       </section>
     </div>
   );
