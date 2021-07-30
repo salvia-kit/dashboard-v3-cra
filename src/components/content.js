@@ -97,31 +97,31 @@ const Content = ({ title }) => (
             </span>
           </div>
           <div className="flex -space-x-2">
-            <a href="#" className="">
+            <a href="#">
               <img
                 className="inline-block h-10 w-10 rounded-full object-cover ring-2 ring-white"
-                src="https://res.cloudinary.com/beloved/image/upload/v1621639962/Assets/1_o63yua.jpg"
+                src="/images/5.jpg"
                 alt="Guy"
               />
             </a>
             <a href="#" className="">
               <img
                 className="inline-block h-10 w-10 rounded-full object-cover ring-2 ring-white"
-                src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/2_ix3pmz.jpg"
+                src="/images/6.jpg"
                 alt="Max"
               />
             </a>
             <a href="#" className="">
               <img
                 className="inline-block h-10 w-10 rounded-full object-cover ring-2 ring-white"
-                src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/3_iscinv.jpg"
+                src="/images/7.jpg"
                 alt="Charles"
               />
             </a>
             <a href="#" className="">
               <img
                 className="inline-block h-10 w-10 rounded-full object-cover ring-2 ring-white"
-                src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/4_iauuag.jpg"
+                src="/images/8.jpg"
                 alt="Jade"
               />
             </a>
@@ -228,31 +228,31 @@ const Content = ({ title }) => (
             </span>
           </div>
           <div className="flex -space-x-2">
-            <a href="#" className="">
+            <a href="#">
               <img
                 className="inline-block h-10 w-10 rounded-full object-cover ring-2 ring-white"
-                src="https://res.cloudinary.com/beloved/image/upload/v1621639962/Assets/1_o63yua.jpg"
+                src="/images/5.jpg"
                 alt="Guy"
               />
             </a>
             <a href="#" className="">
               <img
                 className="inline-block h-10 w-10 rounded-full object-cover ring-2 ring-white"
-                src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/2_ix3pmz.jpg"
+                src="/images/6.jpg"
                 alt="Max"
               />
             </a>
             <a href="#" className="">
               <img
                 className="inline-block h-10 w-10 rounded-full object-cover ring-2 ring-white"
-                src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/3_iscinv.jpg"
+                src="/images/7.jpg"
                 alt="Charles"
               />
             </a>
             <a href="#" className="">
               <img
                 className="inline-block h-10 w-10 rounded-full object-cover ring-2 ring-white"
-                src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/4_iauuag.jpg"
+                src="/images/8.jpg"
                 alt="Jade"
               />
             </a>
@@ -710,7 +710,7 @@ const Content = ({ title }) => (
               <a href="#" className="block relative">
                 <img
                   alt="Maurice Lokumba"
-                  src="https://res.cloudinary.com/beloved/image/upload/v1623601503/Assets/mauricio_hb9kmh.jpg"
+                  src="/images/2.jpg"
                   className="mx-auto object-cover rounded-full h-10 w-10 "
                 />
               </a>
@@ -727,7 +727,7 @@ const Content = ({ title }) => (
               <a href="#" className="block relative">
                 <img
                   alt="Enoch Ndika"
-                  src="https://pbs.twimg.com/profile_images/1319296543602585607/ZYcrXiRu_400x400.jpg"
+                  src="/images/1.jpg"
                   className="mx-auto object-cover rounded-full h-10 w-10 "
                 />
               </a>
@@ -744,7 +744,7 @@ const Content = ({ title }) => (
               <a href="#" className="block relative">
                 <img
                   alt="CR7"
-                  src="https://res.cloudinary.com/beloved/image/upload/v1625012517/Assets/cristiano-ronaldo-portugal-2021_13dokmcp1jf0g1ptvh04ja64y1_r7tpt1.png"
+                  src="/images/3.png"
                   className="mx-auto object-cover rounded-full h-10 w-10 "
                 />
               </a>
@@ -761,7 +761,7 @@ const Content = ({ title }) => (
               <a href="#" className="block relative">
                 <img
                   alt="Lionel Messi"
-                  src="https://res.cloudinary.com/beloved/image/upload/v1625012315/Assets/Lionel-Messi_ijoqtz.jpg"
+                  src="/images/4.jpg"
                   className="mx-auto object-cover rounded-full h-10 w-10 "
                 />
               </a>
